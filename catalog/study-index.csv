@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+vhm01,Ivory Hall,pack-local equal-tempered pitch collection,D,124,4/4,480,32,61440,midi/vhm01-ivory-hall/vhm01-ivory-hall-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+vhm02,Air Thread,pack-local equal-tempered pitch collection,F,124,4/4,480,32,61440,midi/vhm02-air-thread/vhm02-air-thread-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+vhm03,Warm Voice,pack-local equal-tempered pitch collection,G#,124,4/4,480,32,61440,midi/vhm03-warm-voice/vhm03-warm-voice-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+vhm04,Open Light,pack-local equal-tempered pitch collection,D#,124,4/4,480,32,61440,midi/vhm04-open-light/vhm04-open-light-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

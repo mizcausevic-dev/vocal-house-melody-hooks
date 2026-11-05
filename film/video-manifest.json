@@ -1,0 +1,26 @@
+{
+  "title": "Vocal House Melody Hooks",
+  "study": "vhm01",
+  "bpm": 124,
+  "source_audio": "preview/vocal-house-melody-hooks-simple-synth-preview.mp3",
+  "source_audio_sha256": "da9ac1ff632fc55f03d148ba2e4a9df7e031f16cf705f622bd2f9710ac338f85",
+  "source_midi": "midi/vhm01-ivory-hall/vhm01-ivory-hall-combined.mid",
+  "source_midi_sha256": "61bfcb11302b74d29bc04cae31e5ee824b2849dae03c9ed0b12bfad25011d7ae",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "08d26a7465dcc22f8b2d24a478b6926a690311c17bba9a2d18c80a739cf65601",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "642029510ac85e80ecedf66c275bdc6dfb68fc6497bfe049756aa99780346c81",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "8d24af5013a430fdfdc60b244a4c2091b7f28ac4dbb193c47fbfeda4ed614282",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

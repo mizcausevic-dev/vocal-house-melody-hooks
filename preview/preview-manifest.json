@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/vocal-house-melody-hooks-simple-synth-preview.mp3",
+  "preview_sha256": "da9ac1ff632fc55f03d148ba2e4a9df7e031f16cf705f622bd2f9710ac338f85",
+  "source_midi_path": "midi/vhm01-ivory-hall/vhm01-ivory-hall-combined.mid",
+  "source_midi_sha256": "61bfcb11302b74d29bc04cae31e5ee824b2849dae03c9ed0b12bfad25011d7ae",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "vhm01",
+    "start_seconds": 0,
+    "end_seconds": 61.935
+  },
+  "measurement": {
+    "sample_peak": 0.112828,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

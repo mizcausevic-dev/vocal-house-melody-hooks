@@ -1,0 +1,129 @@
+study_id,bar,start_tick,tonic,collection,chord_pitches,intent
+vhm01,1,0,D,pack-local equal-tempered pitch collection,50 54 57,Singable synth MIDI hooks and supporting harmony. Initial cell establishes the material.
+vhm01,2,1920,D,pack-local equal-tempered pitch collection,50 54 57,Singable synth MIDI hooks and supporting harmony. Initial cell establishes the material.
+vhm01,3,3840,D,pack-local equal-tempered pitch collection,50 54 57,Singable synth MIDI hooks and supporting harmony. Initial cell establishes the material.
+vhm01,4,5760,D,pack-local equal-tempered pitch collection,50 54 57,Singable synth MIDI hooks and supporting harmony. Initial cell establishes the material.
+vhm01,5,7680,D,pack-local equal-tempered pitch collection,55 59 62,Singable synth MIDI hooks and supporting harmony. Initial cell establishes the material.
+vhm01,6,9600,D,pack-local equal-tempered pitch collection,55 59 62,Singable synth MIDI hooks and supporting harmony. Initial cell establishes the material.
+vhm01,7,11520,D,pack-local equal-tempered pitch collection,55 59 62,Singable synth MIDI hooks and supporting harmony. Initial cell establishes the material.
+vhm01,8,13440,D,pack-local equal-tempered pitch collection,55 59 62,Singable synth MIDI hooks and supporting harmony. Initial cell establishes the material.
+vhm01,9,15360,D,pack-local equal-tempered pitch collection,54 58 61,Singable synth MIDI hooks and supporting harmony. Initial cell establishes the material.
+vhm01,10,17280,D,pack-local equal-tempered pitch collection,54 58 61,Singable synth MIDI hooks and supporting harmony. Initial cell establishes the material.
+vhm01,11,19200,D,pack-local equal-tempered pitch collection,54 58 61,Singable synth MIDI hooks and supporting harmony. Initial cell establishes the material.
+vhm01,12,21120,D,pack-local equal-tempered pitch collection,54 58 61,Singable synth MIDI hooks and supporting harmony. Initial cell establishes the material.
+vhm01,13,23040,D,pack-local equal-tempered pitch collection,52 56 59,Singable synth MIDI hooks and supporting harmony. Initial cell establishes the material.
+vhm01,14,24960,D,pack-local equal-tempered pitch collection,52 56 59,Singable synth MIDI hooks and supporting harmony. Initial cell establishes the material.
+vhm01,15,26880,D,pack-local equal-tempered pitch collection,52 56 59,Singable synth MIDI hooks and supporting harmony. Initial cell establishes the material.
+vhm01,16,28800,D,pack-local equal-tempered pitch collection,52 56 59,Singable synth MIDI hooks and supporting harmony. Initial cell establishes the material.
+vhm01,17,30720,D,pack-local equal-tempered pitch collection,50 54 57,Singable synth MIDI hooks and supporting harmony. Initial cell establishes the material.
+vhm01,18,32640,D,pack-local equal-tempered pitch collection,50 54 57,Singable synth MIDI hooks and supporting harmony. Initial cell establishes the material.
+vhm01,19,34560,D,pack-local equal-tempered pitch collection,50 54 57,Singable synth MIDI hooks and supporting harmony. Initial cell establishes the material.
+vhm01,20,36480,D,pack-local equal-tempered pitch collection,50 54 57,Singable synth MIDI hooks and supporting harmony. Initial cell establishes the material.
+vhm01,21,38400,D,pack-local equal-tempered pitch collection,55 59 62,Singable synth MIDI hooks and supporting harmony. Initial cell establishes the material.
+vhm01,22,40320,D,pack-local equal-tempered pitch collection,55 59 62,Singable synth MIDI hooks and supporting harmony. Initial cell establishes the material.
+vhm01,23,42240,D,pack-local equal-tempered pitch collection,55 59 62,Singable synth MIDI hooks and supporting harmony. Initial cell establishes the material.
+vhm01,24,44160,D,pack-local equal-tempered pitch collection,55 59 62,Singable synth MIDI hooks and supporting harmony. Initial cell establishes the material.
+vhm01,25,46080,D,pack-local equal-tempered pitch collection,54 58 61,Singable synth MIDI hooks and supporting harmony. Initial cell establishes the material.
+vhm01,26,48000,D,pack-local equal-tempered pitch collection,54 58 61,Singable synth MIDI hooks and supporting harmony. Initial cell establishes the material.
+vhm01,27,49920,D,pack-local equal-tempered pitch collection,54 58 61,Singable synth MIDI hooks and supporting harmony. Initial cell establishes the material.
+vhm01,28,51840,D,pack-local equal-tempered pitch collection,54 58 61,Singable synth MIDI hooks and supporting harmony. Initial cell establishes the material.
+vhm01,29,53760,D,pack-local equal-tempered pitch collection,52 56 59,Singable synth MIDI hooks and supporting harmony. Initial cell establishes the material.
+vhm01,30,55680,D,pack-local equal-tempered pitch collection,52 56 59,Singable synth MIDI hooks and supporting harmony. Initial cell establishes the material.
+vhm01,31,57600,D,pack-local equal-tempered pitch collection,52 56 59,Singable synth MIDI hooks and supporting harmony. Initial cell establishes the material.
+vhm01,32,59520,D,pack-local equal-tempered pitch collection,52 56 59,Singable synth MIDI hooks and supporting harmony. Initial cell establishes the material.
+vhm02,1,0,F,pack-local equal-tempered pitch collection,58 62 65,Singable synth MIDI hooks and supporting harmony. Statement introduces a different contour.
+vhm02,2,1920,F,pack-local equal-tempered pitch collection,58 62 65,Singable synth MIDI hooks and supporting harmony. Statement introduces a different contour.
+vhm02,3,3840,F,pack-local equal-tempered pitch collection,58 62 65,Singable synth MIDI hooks and supporting harmony. Statement introduces a different contour.
+vhm02,4,5760,F,pack-local equal-tempered pitch collection,58 62 65,Singable synth MIDI hooks and supporting harmony. Statement introduces a different contour.
+vhm02,5,7680,F,pack-local equal-tempered pitch collection,57 61 64,Singable synth MIDI hooks and supporting harmony. Statement introduces a different contour.
+vhm02,6,9600,F,pack-local equal-tempered pitch collection,57 61 64,Singable synth MIDI hooks and supporting harmony. Statement introduces a different contour.
+vhm02,7,11520,F,pack-local equal-tempered pitch collection,57 61 64,Singable synth MIDI hooks and supporting harmony. Statement introduces a different contour.
+vhm02,8,13440,F,pack-local equal-tempered pitch collection,57 61 64,Singable synth MIDI hooks and supporting harmony. Statement introduces a different contour.
+vhm02,9,15360,F,pack-local equal-tempered pitch collection,55 59 62,Singable synth MIDI hooks and supporting harmony. Statement introduces a different contour.
+vhm02,10,17280,F,pack-local equal-tempered pitch collection,55 59 62,Singable synth MIDI hooks and supporting harmony. Statement introduces a different contour.
+vhm02,11,19200,F,pack-local equal-tempered pitch collection,55 59 62,Singable synth MIDI hooks and supporting harmony. Statement introduces a different contour.
+vhm02,12,21120,F,pack-local equal-tempered pitch collection,55 59 62,Singable synth MIDI hooks and supporting harmony. Statement introduces a different contour.
+vhm02,13,23040,F,pack-local equal-tempered pitch collection,53 57 60,Singable synth MIDI hooks and supporting harmony. Statement introduces a different contour.
+vhm02,14,24960,F,pack-local equal-tempered pitch collection,53 57 60,Singable synth MIDI hooks and supporting harmony. Statement introduces a different contour.
+vhm02,15,26880,F,pack-local equal-tempered pitch collection,53 57 60,Singable synth MIDI hooks and supporting harmony. Statement introduces a different contour.
+vhm02,16,28800,F,pack-local equal-tempered pitch collection,53 57 60,Singable synth MIDI hooks and supporting harmony. Statement introduces a different contour.
+vhm02,17,30720,F,pack-local equal-tempered pitch collection,58 62 65,Singable synth MIDI hooks and supporting harmony. Statement introduces a different contour.
+vhm02,18,32640,F,pack-local equal-tempered pitch collection,58 62 65,Singable synth MIDI hooks and supporting harmony. Statement introduces a different contour.
+vhm02,19,34560,F,pack-local equal-tempered pitch collection,58 62 65,Singable synth MIDI hooks and supporting harmony. Statement introduces a different contour.
+vhm02,20,36480,F,pack-local equal-tempered pitch collection,58 62 65,Singable synth MIDI hooks and supporting harmony. Statement introduces a different contour.
+vhm02,21,38400,F,pack-local equal-tempered pitch collection,57 61 64,Singable synth MIDI hooks and supporting harmony. Statement introduces a different contour.
+vhm02,22,40320,F,pack-local equal-tempered pitch collection,57 61 64,Singable synth MIDI hooks and supporting harmony. Statement introduces a different contour.
+vhm02,23,42240,F,pack-local equal-tempered pitch collection,57 61 64,Singable synth MIDI hooks and supporting harmony. Statement introduces a different contour.
+vhm02,24,44160,F,pack-local equal-tempered pitch collection,57 61 64,Singable synth MIDI hooks and supporting harmony. Statement introduces a different contour.
+vhm02,25,46080,F,pack-local equal-tempered pitch collection,55 59 62,Singable synth MIDI hooks and supporting harmony. Statement introduces a different contour.
+vhm02,26,48000,F,pack-local equal-tempered pitch collection,55 59 62,Singable synth MIDI hooks and supporting harmony. Statement introduces a different contour.
+vhm02,27,49920,F,pack-local equal-tempered pitch collection,55 59 62,Singable synth MIDI hooks and supporting harmony. Statement introduces a different contour.
+vhm02,28,51840,F,pack-local equal-tempered pitch collection,55 59 62,Singable synth MIDI hooks and supporting harmony. Statement introduces a different contour.
+vhm02,29,53760,F,pack-local equal-tempered pitch collection,53 57 60,Singable synth MIDI hooks and supporting harmony. Statement introduces a different contour.
+vhm02,30,55680,F,pack-local equal-tempered pitch collection,53 57 60,Singable synth MIDI hooks and supporting harmony. Statement introduces a different contour.
+vhm02,31,57600,F,pack-local equal-tempered pitch collection,53 57 60,Singable synth MIDI hooks and supporting harmony. Statement introduces a different contour.
+vhm02,32,59520,F,pack-local equal-tempered pitch collection,53 57 60,Singable synth MIDI hooks and supporting harmony. Statement introduces a different contour.
+vhm03,1,0,G#,pack-local equal-tempered pitch collection,60 64 67,Singable synth MIDI hooks and supporting harmony. Contrast moves the accent map.
+vhm03,2,1920,G#,pack-local equal-tempered pitch collection,60 64 67,Singable synth MIDI hooks and supporting harmony. Contrast moves the accent map.
+vhm03,3,3840,G#,pack-local equal-tempered pitch collection,60 64 67,Singable synth MIDI hooks and supporting harmony. Contrast moves the accent map.
+vhm03,4,5760,G#,pack-local equal-tempered pitch collection,60 64 67,Singable synth MIDI hooks and supporting harmony. Contrast moves the accent map.
+vhm03,5,7680,G#,pack-local equal-tempered pitch collection,58 62 65,Singable synth MIDI hooks and supporting harmony. Contrast moves the accent map.
+vhm03,6,9600,G#,pack-local equal-tempered pitch collection,58 62 65,Singable synth MIDI hooks and supporting harmony. Contrast moves the accent map.
+vhm03,7,11520,G#,pack-local equal-tempered pitch collection,58 62 65,Singable synth MIDI hooks and supporting harmony. Contrast moves the accent map.
+vhm03,8,13440,G#,pack-local equal-tempered pitch collection,58 62 65,Singable synth MIDI hooks and supporting harmony. Contrast moves the accent map.
+vhm03,9,15360,G#,pack-local equal-tempered pitch collection,56 60 63,Singable synth MIDI hooks and supporting harmony. Contrast moves the accent map.
+vhm03,10,17280,G#,pack-local equal-tempered pitch collection,56 60 63,Singable synth MIDI hooks and supporting harmony. Contrast moves the accent map.
+vhm03,11,19200,G#,pack-local equal-tempered pitch collection,56 60 63,Singable synth MIDI hooks and supporting harmony. Contrast moves the accent map.
+vhm03,12,21120,G#,pack-local equal-tempered pitch collection,56 60 63,Singable synth MIDI hooks and supporting harmony. Contrast moves the accent map.
+vhm03,13,23040,G#,pack-local equal-tempered pitch collection,61 65 68,Singable synth MIDI hooks and supporting harmony. Contrast moves the accent map.
+vhm03,14,24960,G#,pack-local equal-tempered pitch collection,61 65 68,Singable synth MIDI hooks and supporting harmony. Contrast moves the accent map.
+vhm03,15,26880,G#,pack-local equal-tempered pitch collection,61 65 68,Singable synth MIDI hooks and supporting harmony. Contrast moves the accent map.
+vhm03,16,28800,G#,pack-local equal-tempered pitch collection,61 65 68,Singable synth MIDI hooks and supporting harmony. Contrast moves the accent map.
+vhm03,17,30720,G#,pack-local equal-tempered pitch collection,60 64 67,Singable synth MIDI hooks and supporting harmony. Contrast moves the accent map.
+vhm03,18,32640,G#,pack-local equal-tempered pitch collection,60 64 67,Singable synth MIDI hooks and supporting harmony. Contrast moves the accent map.
+vhm03,19,34560,G#,pack-local equal-tempered pitch collection,60 64 67,Singable synth MIDI hooks and supporting harmony. Contrast moves the accent map.
+vhm03,20,36480,G#,pack-local equal-tempered pitch collection,60 64 67,Singable synth MIDI hooks and supporting harmony. Contrast moves the accent map.
+vhm03,21,38400,G#,pack-local equal-tempered pitch collection,58 62 65,Singable synth MIDI hooks and supporting harmony. Contrast moves the accent map.
+vhm03,22,40320,G#,pack-local equal-tempered pitch collection,58 62 65,Singable synth MIDI hooks and supporting harmony. Contrast moves the accent map.
+vhm03,23,42240,G#,pack-local equal-tempered pitch collection,58 62 65,Singable synth MIDI hooks and supporting harmony. Contrast moves the accent map.
+vhm03,24,44160,G#,pack-local equal-tempered pitch collection,58 62 65,Singable synth MIDI hooks and supporting harmony. Contrast moves the accent map.
+vhm03,25,46080,G#,pack-local equal-tempered pitch collection,56 60 63,Singable synth MIDI hooks and supporting harmony. Contrast moves the accent map.
+vhm03,26,48000,G#,pack-local equal-tempered pitch collection,56 60 63,Singable synth MIDI hooks and supporting harmony. Contrast moves the accent map.
+vhm03,27,49920,G#,pack-local equal-tempered pitch collection,56 60 63,Singable synth MIDI hooks and supporting harmony. Contrast moves the accent map.
+vhm03,28,51840,G#,pack-local equal-tempered pitch collection,56 60 63,Singable synth MIDI hooks and supporting harmony. Contrast moves the accent map.
+vhm03,29,53760,G#,pack-local equal-tempered pitch collection,61 65 68,Singable synth MIDI hooks and supporting harmony. Contrast moves the accent map.
+vhm03,30,55680,G#,pack-local equal-tempered pitch collection,61 65 68,Singable synth MIDI hooks and supporting harmony. Contrast moves the accent map.
+vhm03,31,57600,G#,pack-local equal-tempered pitch collection,61 65 68,Singable synth MIDI hooks and supporting harmony. Contrast moves the accent map.
+vhm03,32,59520,G#,pack-local equal-tempered pitch collection,61 65 68,Singable synth MIDI hooks and supporting harmony. Contrast moves the accent map.
+vhm04,1,0,D#,pack-local equal-tempered pitch collection,53 57 60,Singable synth MIDI hooks and supporting harmony. Return keeps the identity while changing one placement.
+vhm04,2,1920,D#,pack-local equal-tempered pitch collection,53 57 60,Singable synth MIDI hooks and supporting harmony. Return keeps the identity while changing one placement.
+vhm04,3,3840,D#,pack-local equal-tempered pitch collection,53 57 60,Singable synth MIDI hooks and supporting harmony. Return keeps the identity while changing one placement.
+vhm04,4,5760,D#,pack-local equal-tempered pitch collection,53 57 60,Singable synth MIDI hooks and supporting harmony. Return keeps the identity while changing one placement.
+vhm04,5,7680,D#,pack-local equal-tempered pitch collection,51 55 58,Singable synth MIDI hooks and supporting harmony. Return keeps the identity while changing one placement.
+vhm04,6,9600,D#,pack-local equal-tempered pitch collection,51 55 58,Singable synth MIDI hooks and supporting harmony. Return keeps the identity while changing one placement.
+vhm04,7,11520,D#,pack-local equal-tempered pitch collection,51 55 58,Singable synth MIDI hooks and supporting harmony. Return keeps the identity while changing one placement.
+vhm04,8,13440,D#,pack-local equal-tempered pitch collection,51 55 58,Singable synth MIDI hooks and supporting harmony. Return keeps the identity while changing one placement.
+vhm04,9,15360,D#,pack-local equal-tempered pitch collection,56 60 63,Singable synth MIDI hooks and supporting harmony. Return keeps the identity while changing one placement.
+vhm04,10,17280,D#,pack-local equal-tempered pitch collection,56 60 63,Singable synth MIDI hooks and supporting harmony. Return keeps the identity while changing one placement.
+vhm04,11,19200,D#,pack-local equal-tempered pitch collection,56 60 63,Singable synth MIDI hooks and supporting harmony. Return keeps the identity while changing one placement.
+vhm04,12,21120,D#,pack-local equal-tempered pitch collection,56 60 63,Singable synth MIDI hooks and supporting harmony. Return keeps the identity while changing one placement.
+vhm04,13,23040,D#,pack-local equal-tempered pitch collection,55 59 62,Singable synth MIDI hooks and supporting harmony. Return keeps the identity while changing one placement.
+vhm04,14,24960,D#,pack-local equal-tempered pitch collection,55 59 62,Singable synth MIDI hooks and supporting harmony. Return keeps the identity while changing one placement.
+vhm04,15,26880,D#,pack-local equal-tempered pitch collection,55 59 62,Singable synth MIDI hooks and supporting harmony. Return keeps the identity while changing one placement.
+vhm04,16,28800,D#,pack-local equal-tempered pitch collection,55 59 62,Singable synth MIDI hooks and supporting harmony. Return keeps the identity while changing one placement.
+vhm04,17,30720,D#,pack-local equal-tempered pitch collection,53 57 60,Singable synth MIDI hooks and supporting harmony. Return keeps the identity while changing one placement.
+vhm04,18,32640,D#,pack-local equal-tempered pitch collection,53 57 60,Singable synth MIDI hooks and supporting harmony. Return keeps the identity while changing one placement.
+vhm04,19,34560,D#,pack-local equal-tempered pitch collection,53 57 60,Singable synth MIDI hooks and supporting harmony. Return keeps the identity while changing one placement.
+vhm04,20,36480,D#,pack-local equal-tempered pitch collection,53 57 60,Singable synth MIDI hooks and supporting harmony. Return keeps the identity while changing one placement.
+vhm04,21,38400,D#,pack-local equal-tempered pitch collection,51 55 58,Singable synth MIDI hooks and supporting harmony. Return keeps the identity while changing one placement.
+vhm04,22,40320,D#,pack-local equal-tempered pitch collection,51 55 58,Singable synth MIDI hooks and supporting harmony. Return keeps the identity while changing one placement.
+vhm04,23,42240,D#,pack-local equal-tempered pitch collection,51 55 58,Singable synth MIDI hooks and supporting harmony. Return keeps the identity while changing one placement.
+vhm04,24,44160,D#,pack-local equal-tempered pitch collection,51 55 58,Singable synth MIDI hooks and supporting harmony. Return keeps the identity while changing one placement.
+vhm04,25,46080,D#,pack-local equal-tempered pitch collection,56 60 63,Singable synth MIDI hooks and supporting harmony. Return keeps the identity while changing one placement.
+vhm04,26,48000,D#,pack-local equal-tempered pitch collection,56 60 63,Singable synth MIDI hooks and supporting harmony. Return keeps the identity while changing one placement.
+vhm04,27,49920,D#,pack-local equal-tempered pitch collection,56 60 63,Singable synth MIDI hooks and supporting harmony. Return keeps the identity while changing one placement.
+vhm04,28,51840,D#,pack-local equal-tempered pitch collection,56 60 63,Singable synth MIDI hooks and supporting harmony. Return keeps the identity while changing one placement.
+vhm04,29,53760,D#,pack-local equal-tempered pitch collection,55 59 62,Singable synth MIDI hooks and supporting harmony. Return keeps the identity while changing one placement.
+vhm04,30,55680,D#,pack-local equal-tempered pitch collection,55 59 62,Singable synth MIDI hooks and supporting harmony. Return keeps the identity while changing one placement.
+vhm04,31,57600,D#,pack-local equal-tempered pitch collection,55 59 62,Singable synth MIDI hooks and supporting harmony. Return keeps the identity while changing one placement.
+vhm04,32,59520,D#,pack-local equal-tempered pitch collection,55 59 62,Singable synth MIDI hooks and supporting harmony. Return keeps the identity while changing one placement.
