@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/vocal-house-melody-hooks-midi.zip",
-      "bytes": 29264,
-      "sha256": "e3de08236218fe351c03a8254c22073d66ed7f80cbf5d7165178695fe8849a4e"
+      "bytes": 31089,
+      "sha256": "5cbae5550ffd61441555934cc9098e25931d348103fb18d534dbf0164e5bfca7"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9492,
-      "sha256": "2d4a68811a9131b02f2053691a4a4345b21fa70a382fabf50a28c2aa9c5a1d3b"
+      "bytes": 9682,
+      "sha256": "bca37a6ec014c1f5d90bc5ebae88cd8f774bdc51c975f05912547271333be11a"
     },
     {
       "path": "midi/vhm01-ivory-hall/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "81c699d9336e201d10d1f5e5e8728ebf7b54423a07bc25c5b8424b8019801e07"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/preview-manifest.json",
       "bytes": 1138,
       "sha256": "d1250315a1a47efda8830b732836513be8204d9b5d70e8c2d11543cf179f1e5f"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3904,
-      "sha256": "853a3da81667be31ef2179b102c3340e6e8e5ce106e57bec4a7d1f6201c5ddd8"
+      "bytes": 4019,
+      "sha256": "475baf36afd4a675059ba0065068008e69631adc867cc293d73d1431c182bb8a"
     },
     {
       "path": "social/instagram/caption.txt",
